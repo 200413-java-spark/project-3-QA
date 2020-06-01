@@ -1,5 +1,11 @@
 # Quality Assurance - Project 3
 
+## Project Dataset
+[Oil and Gas Annual Production: Beginning 2001](https://data.world/data-ny-gov/mxea-iw3u "Dataset Location")
+
+### Summary
+This dataset contains annual production information of oil and gas wells in New York State from 2001 to present.
+
 ## Project Repositories
 
 ### Quality Assurance: 
@@ -48,8 +54,3 @@
 ##### Main Algorithm:
 
 ##### Architecture:
-
-
-
-
-
