@@ -6,16 +6,9 @@
 ### Summary
 This dataset contains annual production information of oil and gas wells in New York State from 2001 to present.
 
-## Introduction
-
-placeholder: project goal
-
 ## Full Documentation
 
 See the [Wiki](https://github.com/200413-java-spark/project-3-QA/wiki/) for full documentation, examples, operational details and other information.
-
-## What does it do?
-placeholder: project goal
 
 ## Usage
 
@@ -26,25 +19,21 @@ Usage: The next section is usage, in which you instruct other people on how to u
 ### Quality Assurance: 
 [Quality Assurance](https://github.com/200413-java-spark/project-3-QA "Quality Assurance Repo")
 
-Description:
 Assures code quality, conducts unit testing, and integration testing.  
 ***
 ### DevOps:
 [DevOps](https://github.com/200413-java-spark/project-3-devops "DevOps Repo")
 
-Description: 
 Retrieves the data from S3 and produces the Kafka stream for consumption.
 ***
-### Spark Streaming:
-[Spark Streaming](https://github.com/200413-java-spark/project-3-Spark "Spark Streaming")
+### Spark:
+[Spark](https://github.com/200413-java-spark/project-3-Spark "Spark Streaming")
 
-Description:
 Consumes the Kafka stream, processes the data, persists the data to a PostgresSQL database.
 ***
 ### Dashboard:
 [Dashboard](https://github.com/200413-java-spark/project-3-dashboard "Front End Repo")
 
-Description:
 Utilizes Spring boot, web, jpa, and D3 to render data from a database.
 
 ## Examples
@@ -79,7 +68,6 @@ Utilizes Spring boot, web, jpa, and D3 to render data from a database.
 [Phuc Le](https://github.com/Phuc-Le)
 
 [Sutter Grune](https://github.com/suttergrune)
-
 
 ## License
 MIT License
