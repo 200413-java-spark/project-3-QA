@@ -16,23 +16,26 @@ Usage: The next section is usage, in which you instruct other people on how to u
 
 ## Table of Contents
 
-### Quality Assurance: 
-[Quality Assurance](https://github.com/200413-java-spark/project-3-QA "Quality Assurance Repo")
+### [Quality Assurance](https://github.com/200413-java-spark/project-3-QA "Quality Assurance Repo"): 
 
 Assures code quality, conducts unit testing, and integration testing.  
+
 ***
-### DevOps:
-[DevOps](https://github.com/200413-java-spark/project-3-devops "DevOps Repo")
+
+### [DevOps](https://github.com/200413-java-spark/project-3-devops "DevOps Repo"):
 
 Retrieves the data from S3 and produces the Kafka stream for consumption.
+
 ***
-### Spark:
-[Spark](https://github.com/200413-java-spark/project-3-Spark "Spark Streaming")
+
+### [Spark](https://github.com/200413-java-spark/project-3-Spark "Spark"):
+
 
 Consumes the Kafka stream, processes the data, persists the data to a PostgresSQL database.
+
 ***
-### Dashboard:
-[Dashboard](https://github.com/200413-java-spark/project-3-dashboard "Front End Repo")
+
+### [Dashboard](https://github.com/200413-java-spark/project-3-dashboard "Front End Repo"):
 
 Utilizes Spring boot, web, jpa, and D3 to render data from a database.
 
