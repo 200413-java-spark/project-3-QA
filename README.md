@@ -10,10 +10,6 @@ This dataset contains annual production information of oil and gas wells in New 
 
 See the [Wiki](https://github.com/200413-java-spark/project-3-QA/wiki/) for full documentation, examples, operational details and other information.
 
-## Usage
-
-Usage: The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
-
 ## Table of Contents
 
 ### [Quality Assurance](https://github.com/200413-java-spark/project-3-QA "Quality Assurance Repo"): 
