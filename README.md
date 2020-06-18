@@ -33,7 +33,7 @@ Consumes the Kafka stream, processes the data, persists the data to a PostgresSQ
 
 ### [Dashboard](https://github.com/200413-java-spark/project-3-dashboard "Front End Repo"):
 
-Utilizes Spring boot, web, jpa, and D3 to render data from a database.
+Utilizes Spring Boot, Web, JPA, and D3 to render data from a database.
 
 ## Examples
 
